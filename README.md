@@ -5,5 +5,4 @@ very basic stuff
 I used:  
   Json  
   Requests  
-   csv  
-to scrape and classify the script data in .csv file
+   csv  to scrape and classify the script data in .csv file
